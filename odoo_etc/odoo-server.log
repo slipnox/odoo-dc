@@ -1,0 +1,9 @@
+2018-05-07 05:53:13,123 1 INFO ? odoo: Odoo version 11.0-20180122
+2018-05-07 05:53:13,124 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2018-05-07 05:53:13,125 1 INFO ? odoo: addons paths: ['/var/lib/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2018-05-07 05:53:13,125 1 INFO ? odoo: database: odoo@db:5432
+2018-05-07 05:53:13,136 1 WARNING ? odoo.service.server: 'watchdog' module not installed. Code autoreload feature is disabled
+2018-05-07 05:53:13,137 1 INFO ? odoo.service.server: HTTP service (werkzeug) running on 0.0.0.0:8069
+2018-05-07 05:53:13,207 1 INFO ? odoo.addons.base.ir.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf
+2018-05-07 05:55:13,656 1 INFO ? odoo.service.server: Initiating shutdown
+2018-05-07 05:55:13,657 1 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown.

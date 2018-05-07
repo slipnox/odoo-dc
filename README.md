@@ -8,7 +8,7 @@ Just type the next command to start:
 docker-compose up
 ```
 
-To start with out log:
+To start without log:
 
 ```shell
 docker-compose up -d
@@ -20,4 +20,4 @@ To stop:
 docker-compose down
 ```
 
-Note: The docker-composer down command will remove the containers.
+Note: ```docker-composer down``` command will remove the containers.
